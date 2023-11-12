@@ -36,6 +36,7 @@ This will start the Expo CLI. You can then run the app on a physical device or a
 
 If the app fails to start up, you may need to install a specific version of Tailwind CSS. Run the following command:
 
+`npm install --save-dev tailwindcss@3.3.2`
 
 This installs Tailwind CSS version 3.3.2 as a development dependency, which should resolve any startup issues related to styling.
 
