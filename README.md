@@ -27,7 +27,7 @@ This app is built using Expo (SDK 49) and Tailwind CSS for styling. To set up an
 - Run `npx expo install` to install Expo-specific dependencies.
 
 3. **Start the App**:
-expo start
+`npx expo start`
 
 
 This will start the Expo CLI. You can then run the app on a physical device or an emulator/simulator.
